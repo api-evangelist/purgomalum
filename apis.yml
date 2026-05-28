@@ -1,0 +1,32 @@
+aid: purgomalum
+name: PurgoMalum
+description: "Content validator against profanity & obscenity"
+url: http://www.purgomalum.com
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Data Validation"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Data Validation
+  - Public APIs
+apis:
+  - name: PurgoMalum
+    description: "Content validator against profanity & obscenity"
+    humanURL: http://www.purgomalum.com
+    baseURL: http://www.purgomalum.com
+    tags:
+      - Data Validation
+    properties:
+      - type: Documentation
+        url: http://www.purgomalum.com
+common:
+  - type: Website
+    url: http://www.purgomalum.com
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
