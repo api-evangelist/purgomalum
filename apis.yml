@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: http://www.purgomalum.com
 common:
+  - type: DomainSecurity
+    url: security/purgomalum-domain-security.yml
   - type: Website
     url: http://www.purgomalum.com
   - type: PublicAPIsListing
