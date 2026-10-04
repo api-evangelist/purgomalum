@@ -39,7 +39,6 @@ apis:
   - name: PurgoMalum
     description: "Content validator against profanity & obscenity"
     humanURL: http://www.purgomalum.com
-    baseURL: http://www.purgomalum.com
     tags:
       - Data Validation
     properties:
